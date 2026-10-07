@@ -1,16 +1,44 @@
-# React + Vite
+# SmartHR - React HR Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+An enterprise-grade, modern Human Resources Management System (HRMS) built with React, Tailwind CSS, Recharts, and Lucide React. Designed to automate and streamline core HR operations, employee lifecycle tracking, and financial analytics.
 
-Currently, two official plugins are available:
+## Live Demo
+You can view the live application here:
+[Live URL](https://react-human-resources-management-sy.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## Complete Dashboard Modules
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The system includes 12 comprehensive management modules to handle administrative, financial, and operational tasks:
 
-## Expanding the Oxlint configuration
+1. **Admin Dashboard:** Provides a centralized overview of company-wide metrics, employee statistics, and overall system activities.
+2. **Employee Dashboard:** Designed for tracking individual employee profiles, attendance records, and personal payroll summaries.
+3. **Deals Dashboard:** Features advanced CRM capabilities, sales pipeline funnels, valuation stages, and country-wise sparkline analytics.
+4. **Leads Dashboard:** Handles potential lead generation, lost lead analysis, source-based performance tracking, and company status monitoring.
+5. **HR Dashboard:** Oversees general human resources administration, employee recruitment metrics, and operational workflows.
+6. **Payroll Dashboard:** Calculates and manages salaries, bonuses, tax deductions, and monthly salary sheets for staff.
+7. **Recruitment Dashboard:** Manages candidate hiring pipelines, interview scheduling, and applicant tracking systems.
+8. **Attendance Dashboard:** Records daily attendance, absence logs, leave requests, and check-in times for workers.
+9. **Finance Dashboard:** Tracks company income, expenditures, budget allocation, and financial transactions.
+10. **IT Admin Dashboard:** Manages technological infrastructure, user access permissions, and system security parameters.
+11. **Asset Dashboard:** Maintains inventories and assignments for company hardware, software, and physical properties.
+12. **Help Desk Dashboard:** Processes support tickets, issue resolutions, and technical assistance requests from employees or clients.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+---
+
+## Tech Stack
+* **Frontend:** React, Tailwind CSS
+* **Charts & Analytics:** Recharts
+* **Icons:** Lucide React
+* **Deployment & Hosting:** Vercel
+
+---
+
+## Getting Started Locally
+
+If you want to run this project locally on your machine, follow these steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/MdALSiyam/React_HR_Management_System.git](https://github.com/MdALSiyam/React_HR_Management_System.git)
